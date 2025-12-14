@@ -1,6 +1,6 @@
 # Ejercicio 1 – Palíndromo (Python)
 
-⏳ Tiempo estimado: **10 minutos**
+⏱️ Tiempo estimado: 10 minutos
 
 ## 📝 Enunciado
 Implementa una función en Python que determine si un string es un palíndromo.
@@ -12,9 +12,8 @@ Implementa una función en Python que determine si un string es un palíndromo.
 
 ### Ejemplos:
 - `"A man, a plan, a canal: Panama"` → **True**
-- `"chat gpt"` → **False**
+- `"Automation developer"` → **False**
 
 ## 📦 Entrega
 Escribe tu solución dentro del archivo:
-
 
